@@ -1,5 +1,3 @@
-# staging
-springboot+mybatis基础脚手架，致力于拿来简单修改就可以做为自己项目起点项目
-
-# 教你step by step搭建：
-https://www.yuque.com/wangjiping-bruja/kgci8n/mclmpa
+# staging项目延伸-基础服务之用户，运营，商户能力建设【业务系统主体实现】
+# 一：用户服务搭建
+# 二：运营后台服务搭建
