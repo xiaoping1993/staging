@@ -76,7 +76,7 @@ public class ShopModel {
      */
     private BigDecimal longitude;
 
-    private Integer distance;
+    private BigDecimal distance;
 
     /**
      *
@@ -185,11 +185,11 @@ public class ShopModel {
         this.sellerModel = sellerModel;
     }
 
-    public Integer getDistance() {
+    public BigDecimal getDistance() {
         return distance;
     }
 
-    public void setDistance(Integer distance) {
+    public void setDistance(BigDecimal distance) {
         this.distance = distance;
     }
 
